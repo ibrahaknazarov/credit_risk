@@ -1,4 +1,4 @@
-module credit_risk
+module github.com/ibrahaknazarov/credit_risk
 
 go 1.23.0
 

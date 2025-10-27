@@ -1,7 +1,7 @@
 package service
 import (
-	"credit_risk/internal/contracts"
-	"credit_risk/internal/repository"
+	"github.com/ibrahaknazarov/credit_risk/internal/contracts"
+	"github.com/ibrahaknazarov/credit_risk/internal/repository"
 )
 type Service struct {
 	reppository contracts.Repository

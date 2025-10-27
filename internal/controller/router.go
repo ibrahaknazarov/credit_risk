@@ -2,7 +2,7 @@ package controller
 
 import (
 	"fmt"
-	"credit_risk/internal/configs"
+	"github.com/ibrahaknazarov/credit_risk/internal/configs"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

@@ -1,7 +1,7 @@
 package db
 
 import (
-	"credit_risk/internal/configs"
+	"github.com/ibrahaknazarov/credit_risk/internal/configs"
 	"fmt"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"

@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"credit_risk/internal/models/domain"
-	"credit_risk/pkg"
+	"github.com/ibrahaknazarov/credit_risk/internal/models/domain"
+	"github.com/ibrahaknazarov/credit_risk/pkg"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

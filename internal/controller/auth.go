@@ -2,9 +2,9 @@ package controller
 
 import (
 	"errors"
-	"credit_risk/internal/errs"
-	"credit_risk/internal/models/domain"
-	"credit_risk/pkg"
+	"github.com/ibrahaknazarov/credit_risk/internal/errs"
+	"github.com/ibrahaknazarov/credit_risk/internal/models/domain"
+	"github.com/ibrahaknazarov/credit_risk/pkg"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
