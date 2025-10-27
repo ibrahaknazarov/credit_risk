@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/ibrahaknzarov/credit_risk/internal/models/domain"
+	"credit_risk/internal/models/domain"
 	
 )
 

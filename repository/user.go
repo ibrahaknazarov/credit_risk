@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"github.com/ibrahaknzarov/credit_risk/internal/models/db"
-	"github.com/ibrahaknzarov/credit_risk/internal/models/domain"
+	"credit_risk/internal/models/db"
+	"credit_risk/internal/models/domain"
 	"github.com/rs/zerolog/log"
 	"os"
 )

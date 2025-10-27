@@ -1,6 +1,6 @@
 package contracts
 
-import "github.com/ibrahaknzarov/credit_risk/internal/models/domain"
+import "credit_risk/internal/models/domain"
 
 type ServiceI interface {
 	CreateUser(user domain.User) (err error)

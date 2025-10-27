@@ -2,11 +2,8 @@ package controller
 
 import (
 	"fmt"
-	// _ "github.com/credit_risk/api/docs"
-	"github.com/ibrahaknzarov/credit_risk/internal/configs"
+	"credit_risk/internal/configs"
 	"github.com/gin-gonic/gin"
-	// swaggerFiles "github.com/swaggo/files"
-	// ginSwagger "github.com/swaggo/gin-swagger"
 	"net/http"
 )
 

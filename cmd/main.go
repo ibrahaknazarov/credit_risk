@@ -1,11 +1,11 @@
 package main
 
 import (
-    "github.com/ibrahaknazarov/credit_risk/internal/configs"
-    "github.com/ibrahaknazarov/credit_risk/internal/controller"
-    "github.com/ibrahaknazarov/credit_risk/internal/db"
-    "github.com/ibrahaknazarov/credit_risk/internal/repository"
-    "github.com/ibrahaknazarov/credit_risk/internal/service"
+    "credit_risk/internal/configs"
+    "credit_risk/internal/controller"
+    "credit_risk/internal/db"
+    "credit_risk/internal/repository"
+    "credit_risk/internal/service"
 )
 // @title credit_risk system
 // @contact.name credit_risk API Support

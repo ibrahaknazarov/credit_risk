@@ -2,8 +2,8 @@ package controller
 
 import (
 	"errors"
-	"github.com/ibrahaknzarov/credit_risk/internal/contracts"
-	"github.com/ibrahaknzarov/credit_risk/internal/errs"
+	"credit_risk/internal/contracts"
+	"credit_risk/internal/errs"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

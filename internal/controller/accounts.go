@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/ibrahaknzarov/credit_risk/internal/models/domain"
+	"credit_risk/internal/models/domain"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"

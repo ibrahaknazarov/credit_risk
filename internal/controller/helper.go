@@ -2,8 +2,8 @@ package controller
 
 import (
 	"errors"
-	"github.com/ibrahaknzarov/credit_risk/internal/configs"
-	"github.com/ibrahaknzarov/credit_risk/pkg"
+	"credit_risk/internal/configs"
+	"credit_risk/pkg"
 	"github.com/gin-gonic/gin"
 	"strings"
 )

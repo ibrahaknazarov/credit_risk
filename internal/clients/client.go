@@ -1,7 +1,7 @@
 package clients
 
 import (
-	"github.com/ibrahaknazarov/credit_risk/internal/models/domain"
+	"credit_risk/internal/models/domain"
 )
 
 type Client struct {

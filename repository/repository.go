@@ -3,7 +3,7 @@ package repository
 import (
 	"database/sql"
 	"errors"
-	"github.com/ibrahaknzarov/credit_risk/internal/errs"
+	"credit_risk/internal/errs"
 	"github.com/jmoiron/sqlx"
 )
 

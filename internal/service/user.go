@@ -2,8 +2,8 @@ package service
 
 import (
 	"errors"
-	"github.com/ibrahaknzarov/credit_risk/internal/errs"
-	"github.com/ibrahaknzarov/credit_risk/internal/models/domain"
+	"credit_risk/internal/errs"
+	"credit_risk/internal/models/domain"
 )
 
 func (s *Service) CreateUser(user domain.User) (err error) {
